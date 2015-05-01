@@ -20,10 +20,10 @@ void loop(){
 void setDateTime(){
 
   byte second =      45; //0-59
-  byte minute =      20; //0-59
-  byte hour =        21; //0-23
-  byte weekDay =     2; //1-7
-  byte monthDay =    27; //1-31
+  byte minute =      00; //0-59
+  byte hour =        0; //0-23
+  byte weekDay =     3; //1-7
+  byte monthDay =    29; //1-31
   byte month =       4; //1-12
   byte year  =       15; //0-99
 
